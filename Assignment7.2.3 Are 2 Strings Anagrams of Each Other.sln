@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment7.2.3 Are 2 Strings Anagrams of Each Other", "Assignment7.2.3 Are 2 Strings Anagrams of Each Other.csproj", "{6CBAE8F5-CEEA-43E5-A12B-9995E4727F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CBAE8F5-CEEA-43E5-A12B-9995E4727F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBAE8F5-CEEA-43E5-A12B-9995E4727F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBAE8F5-CEEA-43E5-A12B-9995E4727F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBAE8F5-CEEA-43E5-A12B-9995E4727F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4CBED7-A017-404F-A985-6C164EAEF79D}
+	EndGlobalSection
+EndGlobal
